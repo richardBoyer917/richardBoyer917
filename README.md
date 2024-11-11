@@ -17,4 +17,4 @@ Exploring new JavaScript frameworks and libraries
 
 📬 Let’s Connect!
 Feel free to reach out if you’d like to collaborate on a project or just say hello! 
-You can connect with me on LinkedIn or via email at richardboyer.pro.dev@gmail.com.
+You can connect with me on LinkedIn or via email at yuriAkechi4802@gmail.com.
